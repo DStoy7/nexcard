@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nexcard/static/css/main.c6a34092.css",
+    "main.js": "/nexcard/static/js/main.50277120.js",
+    "static/js/453.2440edf6.chunk.js": "/nexcard/static/js/453.2440edf6.chunk.js",
+    "index.html": "/nexcard/index.html",
+    "main.c6a34092.css.map": "/nexcard/static/css/main.c6a34092.css.map",
+    "main.50277120.js.map": "/nexcard/static/js/main.50277120.js.map",
+    "453.2440edf6.chunk.js.map": "/nexcard/static/js/453.2440edf6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6a34092.css",
+    "static/js/main.50277120.js"
+  ]
+}
